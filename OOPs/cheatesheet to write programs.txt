@@ -1,0 +1,42 @@
+1. to write a class and object programs 
+steps:  1. write classname
+        2. declare variables
+        3. declare methods
+        4. write main method 
+        5. create object of class
+        6. set properties 
+        7. call that methods
+
+2. Steps to write an Encapsulation program 
+steps:  1. write class 
+        2. declare variables using access modifiers(public, private, protected)
+        3. create Constructor to initialize the object with values
+        4. getter and setter methods for each variables
+        5. write main method
+        6. create object of class (classname person = new classname())
+        7. set values using setter methods (person.setName("name"))
+        8. display values using getter methods (person.getName()) 
+
+3. Steps to write Inheritance program
+steps:  1. Write Base Class
+        2. Declare Variables in Base Class
+        3. Create Constructor in Base Class
+        4. Write Methods in Base Class
+        5. Write Derived Class which extend base class
+        6. Declare Additional Variables in Derived Class
+        7. Create Constructor for Derived Class
+        8. call the constructor of the base class using super().
+        9. Write Main Method
+        10.Create Object of Derived Class
+        11.Call Base Class Methods
+        12.Call Derived Class Methods
+
+4. Steps to write Abstraction Program
+steps:  1. make interface
+        2. add methods on interface
+        3. create abstract class which implements interface
+        4. create constructor and associated methods
+        5. create another class if necessary
+        6. create main class 
+        7. create objects of abstract classes
+        8. calling methods.
